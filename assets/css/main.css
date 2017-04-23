@@ -1528,7 +1528,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 		.\-10u\28xxsmall\29 {	margin-left: 83.33333%;		}
 
-		.\-9u\28xxsmall\29 {	margin-left: 75%;		}
+		.\-9u\28xxsmall\29 {	margin-left: 75%;			}
 
 		.\-8u\28xxsmall\29 {	margin-left: 66.66667%;		}
 
@@ -1546,4 +1546,25 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 		.\-1u\28xxsmall\29 {	margin-left: 8.33333%;	}
 
+	}
+
+	/* Edit */
+
+	@-ms-viewport {		width: device-width; 	}
+
+	body { 		-ms-overflow-style: scrollbar;	}
+
+	@media screen and (max-width: 480px) {	html, body {	min-width: 320px;	}	}
+
+	body {		background: #312450;	}
+
+	body.is-loading *, body.is-loading *:before, body.is-loading *:after {
+		-moz-animation: none !important;
+		-webkit-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+		-moz-transition: none !important;
+		-webkit-transition: none !important;
+		-ms-transition: none !important;
+		transition: none !important;
 	}
