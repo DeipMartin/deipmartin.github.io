@@ -1622,7 +1622,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: #242424;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1721,10 +1721,10 @@
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #E51D42, #FF5A7B);
+				background-image: -webkit-linear-gradient(to right, #E51D42, #FF5A7B);
+				background-image: -ms-linear-gradient(to right, #E51D42, #FF5A7B);
+				background-image: linear-gradient(to right, #E51D42, #FF5A7B);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1976,7 +1976,7 @@
 		button.special,
 		.button.special {
 			background-color: #ffffff;
-			color: #312450 !important;
+			color: #242424 !important;
 		}
 
 			input[type="submit"].special:after,
@@ -2406,7 +2406,7 @@
 		}
 
 	select option {
-		background-color: #312450;
+		background-color: #242424;
 		color: #ffffff;
 	}
 
@@ -2482,7 +2482,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #FF5A7B;
 			content: '\f00c';
 		}
 
@@ -2552,7 +2552,7 @@
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #242424;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2563,11 +2563,11 @@
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #E51D42;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #833333;
 				}
 
 				.wrapper.style2 .icon.major:before {
@@ -2579,7 +2579,7 @@
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #FF5A7B;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3253,11 +3253,11 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #E51D42;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #833333;
 		}
 
 		.wrapper.style2 {
@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #FF5A7B;
 		}
 
 		.wrapper.style3-alt {
@@ -3380,7 +3380,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #E51D42;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #242424;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3747,7 +3747,7 @@
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(255, 255, 255, 0.35);
+			color: #ffffff;
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
@@ -3771,14 +3771,14 @@
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #E92257;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #E51D42, #FF5A7B);
+				background-image: -webkit-linear-gradient(to right, #E51D42, #FF5A7B);
+				background-image: -ms-linear-gradient(to right, #E51D42, #FF5A7B);
+				background-image: linear-gradient(to right, #E51D42, #FF5A7B);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3867,7 +3867,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #FF5A7B;
 						}
 
 		}
