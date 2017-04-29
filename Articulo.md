@@ -11,3 +11,6 @@ En la primera parte los autores abordan una introduccion a los temas mas basicos
 En Capitulo 3 los autores nos muestran el rango de aplicaciones que se tienen en el que pueden ser aplicados , tal es el caso de la psicolinguistica computacional y la semantica computacional . El ultimo capitulo se centra en la aplicacion de todo lo anteriormente visto y como entre los diferentes metodos y paradigmas existentes se puede llegar a construir un sistema mas eficas al momento de realizar una serie de tareas en especifico.  
 
 En conclucion, es un titulo con un contenido muy rico en el area de ciencias de la computacion y sin duda alguna, si te apasiona la idea de pensar en un futuro con maquinas concientes, que piensen por su propia cuenta, este podria ser un buen punto referencia para comenzar tu camino en el area de la Inteligencia Artificial. 
+
+Manriquez Leon Martin
+UPIICSA VIDEO GAMES
