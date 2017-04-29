@@ -13,4 +13,5 @@ En Capitulo 3 los autores nos muestran el rango de aplicaciones que se tienen en
 En conclucion, es un titulo con un contenido muy rico en el area de ciencias de la computacion y sin duda alguna, si te apasiona la idea de pensar en un futuro con maquinas concientes, que piensen por su propia cuenta, este podria ser un buen punto referencia para comenzar tu camino en el area de la Inteligencia Artificial. 
 
 Manriquez Leon Martin
+
 UPIICSA VIDEO GAMES
