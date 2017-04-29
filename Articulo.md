@@ -1,6 +1,6 @@
 # The Handbook of Computional Linguistic and Natural Language Processing
 ## Por Alexander Clark, Chris Fox and Shalom Lappin
-## Area : Computer Sciences 
+## Area : Computer Sciences , Inteligancia Artificial  
 
 Hoy dia no es dificil crer en un mundo donde los seres humanos se puedan comunicar con las maquinas(ROBOTS) pero hace tansolo algunos años el simple hecho de ver en una serie televiciva un robot comunicandoce con los seres humanos y realizando las labores del hogar , no era mas que un sueño o en el peor de los casos una fantacia que no se podia cumplir.   
 No hace mucho tiempo,apenas un par de semanas, una curiosidad enorme por desarrollar un chatbot me invadio y no fue hasta que me sumergi de lleno en este basto oceano que rodea a la IA que pude percatarme de lo complejo que es logar que una maquina pueda responderte deacuerto a los estimulos creados por el hombre, y afortunadamente,en un golpe de suerte, llego este magnifico libro a mi.   
