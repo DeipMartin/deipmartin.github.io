@@ -2,16 +2,12 @@
 ## Por Alexander Clark, Chris Fox and Shalom Lappin
 ## Area : Computer Sciences 
 
-El libro "The Handbook of Computional Linguistic and Natural Language Processing" muestra imponencia con el simple hecho de ver la cantidad de paginas contenidas en el, y leer sus paginas podemos corroborar que todo respeto hacia el libro esta bien ganado .
-El libro tiene un contenido excepcional para el estudio del Procesamiento del lenguaje natural y la linguistica computacional , abordando temas tan compejos como lo puede ser ###
-###
-###
-###
+Hoy dia no es dificil imaginar    
+No hace mucho tiempo,apenas un par de semanas, una curiosidad enorme por desarrollar un chatbot me invadio y no fue hasta que me di cuenta de lo complejo de crear un  
+"The Handbook of Computional Linguistic and Natural Language Processing" muestra imponencia con el simple hecho de ver la cantidad de paginas contenidas en el, y al leer sus paginas, podemos corroborar que todo respeto hacia el libro esta bien ganado .
+El libro tiene un contenido excepcional para el estudio del Procesamiento del lenguaje natural y la linguistica computacional , abordando temas tan compejos como lo son la teoria de lenguajes formales, en el cual , de una manera bastante amena, los autores son capaces de explicar el tema , llevandonos desde los principios mas generales a los particulares, atravezando por un conjunto de modelos y teorias indispensables para poder comprender el gran poder y dificultad que este tipo de temas conllevan. 
+En este libro es una base fundamental para trabajar con el procesamiento de lenguajes naturales dividiendo los temas en cuatro partes .
+En la primera parte los autores abordan una introduccion a los temas mas basicos e indispensables para comprender los metodos y aplicaciones de dicho paradigma . Posteriormente en el capitulo 2 se abordan los metodos masutilizados para el procesamiento del lenguaje natural , tal como lo es  el uso de arboles de decicion o la creacion de redes neuronales , metodos muy bien abordados por los autores, pero si cabe recalcar que es necesario una investigacion hacerca de estos metodos para poder tener una mejor prespectiva acerca de su uso.
+En Capitulo 3 los autores nos muestran el rango de aplicaciones que se tienen en el que pueden ser aplicados , tal es el caso de la psicolinguistica computacional y la semantica computacional . El ultimo capitulo se centra en la aplicacion de todo lo anteriormente visto y como entre los diferentes metodos y paradigmas existentes se puede llegar a construir un sistema mas eficas al momento de realizar una serie de tareas en especifico.  
 
-
-
-
-
-
-
-es una pieza maestra en el area de ciencias de la computacion  
+En conclucion, es un titulo con un contenido muy rico en el area de ciencias de la computacion y sin duda alguna, si te apasiona la idea de pensar en un futuro con maquinas concientes, que piensen por su propia cuenta, este podria ser un buen punto referencia para comenzar tu camino en el area de la Inteligencia Artificial. 
